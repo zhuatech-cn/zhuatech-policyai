@@ -1,5 +1,7 @@
 # 知华制度影响分析｜Policy AI
 
+[简体中文](README.md) | [English](README.en.md)
+
 上海如静知华信息科技有限公司提供的企业制度影响分析公开源码项目。它解决的不是“让模型写一段结论”，而是让制度版本、控制项、命中依据、责任人与审批记录在同一条可追溯流程中闭环。
 
 官网：[知华科技](https://www.zhuatech.cn/) · 项目包名：`cn.zhuatech.policyai`
